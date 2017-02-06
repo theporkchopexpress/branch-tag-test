@@ -9,3 +9,5 @@ Update v1.0.2
 Branch v1.x
 
 Update v1.1.1
+
+Update v1.1.2
